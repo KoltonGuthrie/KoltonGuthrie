@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Kolton
 
-I'm a sophomore at Jacksonville State University, and I am majoring in Computer Information Systems
+I'm a sophomore at Jacksonville State University, and I am majoring in Computer Science
 
 I enjoy programming random projects in my free time
 
